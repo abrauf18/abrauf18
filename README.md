@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul Rauf! 👋
+# Hi there, I'm A Rauf! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;TypeScript+Developer;Building+Web+Applications!" alt="Typing SVG" />
@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 ```typescript
-const abdulRauf = {
-  name: "Abdul Rauf",
+const ARauf = {
+  name: "A Rauf",
   location: "Pakistan 🇵🇰",
   education: "Computer Science - PUCIT",
   role: "Software Engineer",
@@ -62,7 +62,6 @@ const abdulRauf = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abrauf.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrauf18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrauf.dev@gmail.com)
 
