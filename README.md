@@ -12,7 +12,7 @@ const ARauf = {
   location: "Pakistan 🇵🇰",
   education: "Computer Science - PUCIT",
   role: "Software Engineer",
-  portfolio: "https://abrauf.vercel.app"
+  portfolio: "https://m-asim-rauf.vercel.app"
 };
 ```
 
