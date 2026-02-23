@@ -1,7 +1,7 @@
-# Hi there, I'm A Rauf! 👋
+# Hi there, I'm Abdul Rauf! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;TypeScript+Developer;Building+Web+Applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;TypeScript+Developer;AI+Engineer!" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -41,10 +41,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrauf18&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrauf18&layout=compact&theme=react&border_radius=10"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=abrauf18&theme=react&border_radius=10" alt="GitHub Streak"/>
